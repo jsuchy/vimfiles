@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/jsuchy/projects/artisan'
+let g:netrw_dirhist_2='/Users/jsuchy/projects/limelight/go'
+let g:netrw_dirhist_3='/Users/jsuchy/projects/apprentice/skim/tic_tac_toe_smalltalk'
+let g:netrw_dirhist_4='/Users/jsuchy/projects/pinkbox/rapid_decision'
+let g:netrw_dirhist_5='/Users/jsuchy/projects/lein/sandbox'
+let g:netrw_dirhist_6='/Users/jsuchy/projects/clojure/euler'
+let g:netrw_dirhist_7='/Users/jsuchy/projects/pinkbox/pinkbox_gems/data_map'
+let g:netrw_dirhist_8='/Users/jsuchy/projects/ruby/go'
